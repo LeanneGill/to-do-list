@@ -1,0 +1,41 @@
+body {
+background-color:;
+}
+
+h1 {
+    text-align: center;
+    border:  3px solid whitesmoke;
+    border-radius: 5px;
+}
+
+.row {
+    border:  3px solid whitesmoke;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+.col-red {
+    background-color: red;
+}
+.col-blue {
+    background-color: blue;
+    text-align: right;
+}
+
+.col-pink {
+    background-color: pink;
+    transition: all 0.5s ease;
+
+        
+}
+.col-clear {
+
+   text-align: center;
+   
+  
+   
+
+}
+.col-yellow {
+    background-color: yellow;
+}
