@@ -9,20 +9,20 @@ h1 {
 }
 
 .layout {
-    border:  3px solid whitesmoke;
+    border-top:  3px solid whitesmoke;
     border-radius: 5px;
     margin: 20px;
 }
 
-
-.col-blue {
-    background-color: blue;
-    text-align: right;
+.col-yellow {
+    background-color: yellow;
 }
+
+
 
 .col-pink {
     background-color: pink;
-    transition: all 0.5s ease;
+    
 
         
 }
@@ -33,7 +33,4 @@ h1 {
   
    
 
-}
-.col-yellow {
-    background-color: yellow;
 }
