@@ -8,15 +8,13 @@ h1 {
     border-radius: 5px;
 }
 
-.row {
+.layout {
     border:  3px solid whitesmoke;
     border-radius: 5px;
     margin: 20px;
 }
 
-.col-red {
-    background-color: red;
-}
+
 .col-blue {
     background-color: blue;
     text-align: right;
